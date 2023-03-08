@@ -1,5 +1,6 @@
 
-# ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) ¡Hola! Mi nombre es Oscar Arregoces 👋
+# ![OscarArregoces](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) ¡Hola! Mi nombre es Oscar Arregoces 👋
+
 ### Full Stack Web Developer
 
 Estudié ingenieria de sistemas 💻  en la universidad de La Guajira y actualmente estoy en terminación academica 🎓. Durante mis años universitarios tambien he estudiado de manera autodidacta a traves de contenido virtual en diversas plataformas como Udemy y YouTube, las cuales me ayudarón mucho a complementar mi formacion.
