@@ -2,8 +2,6 @@
 # ![https://mouredev.com](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) ¡Hola! Mi nombre es Oscar Arregoces 👋
 ### Full Stack Web Developer
 
-Me llamo ⚡Oscar⚡ y soy desarrollador Web Full Stack, aun que debo decir que me gusta mas el FrontEnd.
-
 Estudié ingenieria de sistemas 💻  en la universidad de La Guajira y actualmente estoy en terminación academica 🎓. Durante mis años universitarios tambien he estudiado de manera autodidacta a traves de contenido virtual en diversas plataformas como Udemy y YouTube, las cuales me ayudarón mucho a complementar mi formacion.
 
 Aun que manejo el Backend y el Frontend debo decir que actualmente me gusta mucho mas el frontend, aqui encontraras algunos de mis proyectos con distintas tecnologias como React, Angular, Vue, Django Rest Framework, Node Js, entre otras y las que faltan 😆😆😆. Me encuentro en un punto en donde tengo bases solidas de algunas tecnologias pero sigo con el entusiasmo de aprender cosas nuevas y divertidas.
