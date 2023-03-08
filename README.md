@@ -11,8 +11,6 @@ Estudié ingenieria de sistemas 💻  en la universidad de La Guajira y actualme
 🔸 [Linkedin](https://www.linkedin.com/in/oscararregoces/)
 🔸 [Torre](https://torre.co/oiarregoces?r=Axw8yjDn)
 
-**📧 Email::**
-🔸 [Email](ingoscararregoces@gmail.com)
 
 [![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://mouredev.com/discord)
 
