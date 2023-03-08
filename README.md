@@ -3,16 +3,21 @@
 
 **¡Hola!** Me llamo ⚡Oscar⚡ y soy desarrollador Web Full Stack, aun que debo decir que me gusta mas el FrontEnd.
 
-📫 Me puedes encontrar aquí:
+Estudié ingenieria de sistemas 💻  en la universidad de La Guajira y actualmente estoy en terminación academica 🎓. Durante mis años universitarios tambien he estudiado de manera autodidacta a traves de contenido virtual en diversas plataformas como Udemy y YouTube, las cuales me ayudarón mucho a complementar mi formacion.
 
-- Email: ingoscararregoces@gmail.com
+**📫 Me puedes encontrar aquí:**
 
-- Portafolio: https://oscarportafolio.netlify.app/
-- Linkedin: https://www.linkedin.com/in/oscararregoces/
-- Torre: https://torre.co/oiarregoces?r=Axw8yjDn
+🔸 [Portafolio](https://oscarportafolio.netlify.app/)
+🔸 [Linkedin](https://www.linkedin.com/in/oscararregoces/)
+🔸 [Torre](https://torre.co/oiarregoces?r=Axw8yjDn)
+
+**📧 Email::**
+🔸 [Email](ingoscararregoces@gmail.com)
+
+[![Discord](https://img.shields.io/discord/729672926432985098?style=social&label=Discord&logo=discord)](https://mouredev.com/discord)
 
 
-💥Skills:
+**💥Skills:**
 
 [![HTML5](https://img.shields.io/badge/%F0%9F%94%B6-HTML-orange)]()
 [![CSS3](https://img.shields.io/badge/%F0%9F%94%B6-CSS-blue)]()
