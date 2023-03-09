@@ -1,5 +1,5 @@
 
-# ![OscarArregoces](https://raw.githubusercontent.com/mouredev/mouredev/master/mouredev_emote.png) ¡Hola! Mi nombre es Oscar Arregoces 👋
+#  ¡Hola! Mi nombre es Oscar Arregoces 👋
 
 ### Full Stack Web Developer
 
