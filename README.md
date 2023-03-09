@@ -4,6 +4,7 @@
 ### Full Stack Web Developer
 
 Estudié ingeniería de sistemas 💻 en la universidad de La Guajira y actualmente estoy en terminación académica 🎓. Durante mis años universitarios tambien he estudiado de manera autodidacta a través de contenido virtual en diversas plataformas como Udemy y YouTube, las cuales me ayudaron mucho a complementar mi formación.
+
 Aunque manejo el BackEnd y el FrontEnd debo decir que actualmente me gusta mucho mas el FrontEnd, aquí encontraras algunos de mis proyectos con distintas tecnologías como React, Angular, Vue, Django Rest Framework, Node Js, entre otras y las que faltan 😆😆. Me encuentro en un punto en donde tengo bases sólidas de algunas tecnologías pero sigo con el entusiasmo de aprender cosas nuevas y divertidas.
 
 
