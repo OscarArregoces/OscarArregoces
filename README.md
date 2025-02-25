@@ -12,7 +12,6 @@ Aunque manejo el BackEnd y el FrontEnd debo decir que actualmente me gusta mucho
 
 🔸 [Portafolio](https://oscar-arregoces.netlify.app/)
 🔸 [Linkedin](https://www.linkedin.com/in/oscararregoces/)
-🔸 [Torre](https://torre.co/oiarregoces?r=Axw8yjDn)
 
 
 **💥Skills:**
